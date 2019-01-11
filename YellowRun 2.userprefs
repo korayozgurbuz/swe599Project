@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\pancam.cs">
+    <Files>
+      <File FileName="Assets\Scripts\pancam.cs" Line="15" Column="3" />
+      <File FileName="Assets\Scripts\RobotController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Destroyer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\pencilline.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\bomb.cs" Line="31" Column="43" />
+      <File FileName="Assets\Scripts\BombSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BonusPoints.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\gameOver.cs" Line="1" Column="1" />
+      <File FileName="..\pancam.cs" Line="42" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
